@@ -1,0 +1,3 @@
+﻿  gamemain.cpp
+e:\研究生课程\c++\gametest\gametest\gamemain.cpp(8): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  gametest.vcxproj -> E:\研究生课程\c++\gametest\x64\Debug\gametest.exe
