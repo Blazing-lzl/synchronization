@@ -1,1 +1,4 @@
+git add .(注意这个"."，是有空格的，"."代表这个test这个文件夹下的目录全部都提交。你也可以通过git add 文件名  提交指定的文件)
+git commit -m "这里面写你的注释"
 update: git push origin master
+同步：git pull
